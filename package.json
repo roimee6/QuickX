@@ -1,0 +1,15 @@
+{
+  "name": "quickx",
+  "version": "1.0.0",
+  "description": "An discord bot for transform twitter/X link to an embed with the media linked",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maxoooz",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "twitter-downloader": "^1.1.5"
+  }
+}
